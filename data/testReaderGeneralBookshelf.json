@@ -1,0 +1,14 @@
+{"books": [
+  {
+    "author": "stoker",
+    "name": "dracula",
+    "rating": 6,
+    "status": "read"
+  },
+  {
+    "author": "shelly",
+    "name": "frankenstein",
+    "rating": 8,
+    "status": "unread"
+  }
+]}

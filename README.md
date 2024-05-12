@@ -1,3 +1,5 @@
+UML Diagram in the 'resources' folder.
+
 My_Bookshelf will allow users to create a digital bookshelf that contains a list of books. Each book will be able 
 to store a title, author, personal rating, and read status. The bookshelf will also be able to add, remove, and filter 
 books by title. This application is targeted for people looking for a convenient way to track the books that they have finished 
